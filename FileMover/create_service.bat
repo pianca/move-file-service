@@ -1,0 +1,1 @@
+﻿sc.exe create FileMover BinPath=D:\bin\filemover_publish\FileMover.exe
